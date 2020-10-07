@@ -1,0 +1,1 @@
+//link:http://noi-test.zzstep.com/contest/0x3B%E3%80%8C%E6%95%B0%E5%AD%A6%E7%9F%A5%E8%AF%86%E3%80%8D%E7%BB%83%E4%B9%A0/POJ1061%20%E9%9D%92%E8%9B%99%E7%9A%84%E7%BA%A6%E4%BC%9A

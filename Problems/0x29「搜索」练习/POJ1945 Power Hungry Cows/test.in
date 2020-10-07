@@ -1,0 +1,8 @@
+WV1  WV2
+                                      Start:   x    1
+   Multiply first by first, store in second:   x   x^2
+                  Multiply second by second:   x   x^4
+                  Multiply second by second:   x   x^8
+                  Multiply second by second:   x   x^16
+                  Multiply second by second:   x   x^32
+                     Divide second by first:   x   x^31

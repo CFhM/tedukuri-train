@@ -1,0 +1,1 @@
+//link:http://noi-test.zzstep.com/contest/0x40%E3%80%8C%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E8%BF%9B%E9%98%B6%E3%80%8D%E4%BE%8B%E9%A2%98/4601%20%E6%99%AE%E9%80%9A%E5%B9%B3%E8%A1%A1%E6%A0%91
