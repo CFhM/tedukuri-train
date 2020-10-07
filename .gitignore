@@ -1,3 +1,9 @@
 .vscode
 *.o
 *.log
+*.html
+sol.out
+std.out
+gen.in
+std
+solution
