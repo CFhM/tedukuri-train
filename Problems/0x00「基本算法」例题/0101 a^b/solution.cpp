@@ -5,7 +5,7 @@ using namespace std;
 int main() {
     int32_t a, b, p;
     cin >> a >> b >> p;
-    int32_t ans = 1;
+    int32_t ans = 1 % p;
     a %= p;
     while (b) {
         if (b & 1)
